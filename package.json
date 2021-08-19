@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Component to create responsive iframe video to 16:9",
   "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elBotija/responsive-video-iframe.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
