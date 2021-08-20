@@ -2,7 +2,7 @@
 
 ResponsiveVideoIframe is a React component to create a responsive viedo iframe, preserving the aspect ratio (16:9).
 
-[**Live Demo**](https://elbotija.github.io/embed-iframe-video-css/)
+[**Live Demo**](https://elbotija.github.io/responsive-video-iframe/)
 
 ## Install
 
