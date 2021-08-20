@@ -1,6 +1,6 @@
 {
   "name": "responsive-video-iframe",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Component to create responsive iframe video to 16:9",
   "private": false,
   "author": "elBotija",
