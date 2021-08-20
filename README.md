@@ -2,6 +2,11 @@
 
 ResponsiveVideoIframe is a React component to create a responsive viedo iframe, preserving the aspect ratio (16:9).
 
+[![npm](https://img.shields.io/npm/v/responsive-video-iframe)](https://www.npmjs.com/package/responsive-video-iframe)
+[![GitHub last commit](https://img.shields.io/github/last-commit/elbotija/responsive-video-iframe)](https://github.com/elBotija/responsive-video-iframe)
+[![downloads](https://img.shields.io/npm/dm/starwars-names.svg?style=flat-square)](http://npm-stat.com/charts.html?package=responsive-video-iframe&from=2020-08-01)
+[![MIT License](https://img.shields.io/npm/l/starwars-names.svg?style=flat-square)](http://opensource.org/licenses/MIT)
+
 [**Live Demo**](https://elbotija.github.io/responsive-video-iframe/)
 
 ## Install
